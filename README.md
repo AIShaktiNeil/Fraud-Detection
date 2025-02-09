@@ -1,6 +1,6 @@
 # Bank Transaction EDA for Fraud Detection
 
-This repository contains an **exploratory data analysis (EDA)** project focused on detecting fraud in bank transactions. The project leverages data visualization, preprocessing, and unsupervised clustering techniques (DBSCAN) to uncover patterns and identify potentially fraudulent transactions.
+This repository contains an **exploratory data analysis (EDA)** project focused on detecting fraud in bank transactions. The project leverages data visualization, preprocessing, and unsupervised clustering techniques to uncover patterns and identify potentially fraudulent transactions.
 
 ## Project Overview
 
