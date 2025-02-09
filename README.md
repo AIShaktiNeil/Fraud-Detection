@@ -55,7 +55,7 @@ This repository contains an **exploratory data analysis (EDA)** project focused 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bank-transaction-eda-fraud-detection.git
+   git clone https://github.com/AIShaktiNeil/Fraud-Detection/blob/main/US_bank_anomalyDetection.ipynb?short_path=0e8055c
    cd bank-transaction-eda-fraud-detection
    ```
 
